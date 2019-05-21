@@ -26,7 +26,7 @@ awesome-1c
 - [Интеграции](#интеграции)
 - [Утилиты](#утилиты)
 - [Сообщество](#сообщество)
-- [Франчайзи](#франчайзи)
+- [Добавить](#добавить)
 
 ------
 
@@ -219,4 +219,22 @@ awesome-1c
 
 ------
 
-## Франчайзи
+## Добавить
++ https://github.com/purtcer/NurseConsole1CServer
++ https://github.com/EnterraInc/1C-.Net-Adapter
++ https://github.com/TeamBIOS/cfg_tools
++ https://github.com/tarasii/1c_rs232
++ https://github.com/deshaion/service_for_connect_1c_com
++ https://github.com/alekseybochkov/WebRAS
++ https://github.com/vladon/SocketNative
++ https://github.com/pbazeliuk/V8Commit
++ https://github.com/antioff/afalina
++ https://github.com/skyksandr/1c-log-to-es
++ https://github.com/ANtlord/price-import-1c
++ https://github.com/1CEnterprise/MSQL-for-1C
++ https://github.com/asdaru/postgres_1c
++ https://github.com/SergeFocus/1C-Functin-to-yEd
++ https://github.com/pintov/1c-jwt
++ https://github.com/goshulina/auto_act_1c
+  
+  
