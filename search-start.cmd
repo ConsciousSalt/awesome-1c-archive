@@ -1,1 +1,0 @@
- oscript tools/github-stats-api.os generate-markdown --markdown-path .\\data\\README.md
