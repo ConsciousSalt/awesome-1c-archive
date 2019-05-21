@@ -1,5 +1,5 @@
-﻿---
-awesome-1c
+---
+https://awesome-1c.github.io
 ---
 
 ![](.img/splash.jpg)
